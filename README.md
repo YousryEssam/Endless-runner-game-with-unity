@@ -1,6 +1,10 @@
 # Endless Runner Game
 
-![Demo Video](demo_video_link) 
+Click the image below to watch the demo video:
+
+[![Demo Video](https://img.youtube.com/vi/DMh2iTJNRn8/0.jpg)](https://youtu.be/DMh2iTJNRn8)
+
+
 
 ## Description
 
