@@ -47,8 +47,8 @@ This project is an endless runner game similar to Subway Surfers or Temple Run, 
 
 ## Authors
 
-- [YousryEssam]([https://github.com/yourprofile](https://github.com/YousryEssam]))
-- [NourhanHanna]([https://github.com/NourhanHanna])
+- [YousryEssam](https://github.com/yourprofile](https://github.com/YousryEssam))
+- [NourhanHanna](https://github.com/NourhanHanna)
 
 ## License
 
